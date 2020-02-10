@@ -1,0 +1,22 @@
+*,*::after,*::before{
+    box-sizing: border-box;
+}
+.container {
+    max-width: 1170px;
+    margin: auto;
+   }
+   /*Header*/
+   body {
+    background-color: #FFA0AE;
+    color:#7D0013;
+   }
+   h1 {
+       font-size: 120px;
+       
+       color:#7D0013;
+       text-align: center;
+   }
+   img{
+    display: inline-block;
+    margin-left: 25%;
+   }
